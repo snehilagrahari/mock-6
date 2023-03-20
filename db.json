@@ -1,0 +1,18 @@
+{
+    "endpoint1" : [{
+        "id" : 1,
+        "name" : "Snehil Agrahari"
+    }],
+    "endpoint2" : [{
+        "id" : 1,
+        "name" : "Snehil Agrahari"
+    }],
+    "endpoint3" : [{
+        "id" : 1,
+        "name" : "Snehil Agrahari"
+    }],
+    "endpoint4" : [{
+        "id" : 1,
+        "name" : "Snehil Agrahari"
+    }]
+}
