@@ -26,5 +26,25 @@
             "IMDB_Rating" : 7.2,
             "ticket" : 200
         }
+    ],
+    "tickets" : [
+        {
+            "id" : 1,
+            "userDetails" : {
+                "username" : "Snehil Agrahari",
+                "email" : "snehil@gmail.com",
+                "password" : "snehil@1171"
+            },
+            "movieDetails" : {
+                "id" : 1,
+                "poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+                "title" : "Doctor Strange in the Multiverse of Madness",
+                "director" : "Sam Raimi",
+                "year" : 2022,
+                "genre" : "Action",
+                "IMDB_Rating" : 6.8,
+                "ticket" : 200
+            }
+        }
     ]
 }
